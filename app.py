@@ -12,5 +12,7 @@ st.header("Our Courses")
 st.subheader("Data Science")
 st.subheader("Data Analytics")
 st.subheader("Data Engineering")
+st.subheader("Python Programming")
+st.subheader("SQL")
 
 
