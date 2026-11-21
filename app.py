@@ -7,3 +7,10 @@ with col1:
     st.image("bss_logo.jpg", width=200)
 with col2:
     st.write("We provide innovative software solutions for your business needs.")
+
+st.header("Our Courses")
+st.subheader("Data Science")
+st.subheader("Data Analytics")
+st.subheader("Data Engineering")
+
+
