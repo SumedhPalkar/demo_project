@@ -9,10 +9,10 @@ with col2:
     st.write("We provide innovative software solutions for your business needs.")
 
 st.header("Our Courses")
-st.subheader("Data Science")
-st.subheader("Data Analytics")
-st.subheader("Data Engineering")
-st.subheader("Python Programming")
+st.subheader("data science and machine learning")
+st.subheader("data analytics")
+
+st.subheader("Python")
 st.subheader("SQL")
 
 
